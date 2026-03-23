@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Tushar Shinde
 
-<!--
-**Tushar1234shinde/Tushar1234shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate(CSE) | 💻 Full Stack Developer  
+🌱 Currently learning: React, Spring Boot  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, TypeScript
+- Backend: Java, JDBC, Servlets
+- Database: MySQL, Oracle SQL
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+- 🏥 Hospital Booking System
+- 🛒 E-commerce Website
+- 🎵 Music Player (JS)
+- 📊 Oracle SQL Projects
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Tushar1234shinde&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (add link)
+- Portfolio: (add link)

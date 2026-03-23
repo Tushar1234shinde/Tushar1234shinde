@@ -29,4 +29,4 @@
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/tushar-shinde-link
-- Portfolio: [](https://tusharportfolio2026sde.vercel.app/)
+- Portfolio: https://tusharportfolio2026sde.vercel.app/

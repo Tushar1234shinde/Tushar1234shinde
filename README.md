@@ -28,5 +28,5 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (add link)
-- Portfolio: (add link)
+- LinkedIn: www.linkedin.com/in/tushar-shinde-link
+- Portfolio: [](https://tusharportfolio2026sde.vercel.app/)

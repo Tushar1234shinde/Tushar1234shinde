@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tushar Shinde
 
 🎓 B.Tech Graduate(CSE) | 💻 Full Stack Developer  
-🌱 Currently learning: React, Spring Boot  
+🌱 Currently Working With: React, Spring Boot  
 🚀 Passionate about building real-world projects  
 
 ---

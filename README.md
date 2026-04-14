@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript, TypeScript
 - Backend: Java, JDBC, Servlets
-- Database: MySQL, Oracle SQL
+- Database: SQL, NoSQL
 - Tools: Git, GitHub, VS Code
 
 ---

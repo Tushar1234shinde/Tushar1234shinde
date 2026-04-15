@@ -1,8 +1,6 @@
- # Hi 👋, I'm Tushar Shinde
-
- 
-🚀 Passionate about building real-world projects  
-
+ <div align="center">
+  # Hi 👋, I'm Tushar Shinde 
+ </div>
 ---
 
 <div align="center">
@@ -67,14 +65,12 @@
 | :--- | :--- |
 | A responsive, full-scale digital storefront with a dynamic product catalog, user cart management, and seamless checkout flows designed for scalability. | A real-time social networking platform allowing users to securely create profiles, share posts, and interact with the community efficiently. |
 
-*(Please check my repositories for detailed source code and live demos!)*
-
 <br/>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar1234shinde&show_icons=true&theme=radical&hide_border=true" alt="Tushar's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushar1234shinde&show_icons=true&theme=radical&hide_border=true" alt="Tushar's GitHub Stats" />
 </div>
 
 <br/>
@@ -84,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar1234shinde&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tushar1234shinde&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <hr />

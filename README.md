@@ -22,15 +22,15 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering.
+- 🎓 **Education:** Graduated with a B.Tech in Computer Science & Engineering.
 - 💻 **Core Focus:** Enterprise-grade full-stack development, scalable microservices, and high-performance user interfaces.
 - ⚡ **Backend Mastery:** Strong expertise in **Java**, **Spring Boot**, **JDBC**, and relational database optimization (**PostgreSQL**, **Oracle**, **PL/SQL**, **MySQL**).
 - 🎨 **Frontend Excellence:** Crafting clean, responsive, and dynamic web apps with **React**, **Angular**, **TypeScript**, and modern UI primitives.
-- 🌱 **Learning & Exploring:** DevOps workflows, microservice orchestration with Docker, and cloud architecture.
+- 🌱 **Learning & Exploring:** DevOps workflows, microservice orchestration with Docker, and cloud engineering.
 
 ---
 
-### 🛠️ Tech Stack Summary
+### 🛠️ Tech Stack & Capabilities
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -50,12 +50,15 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### Backend & Database
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 #### DevOps & Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -76,7 +79,7 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </p>
-      <p>An interactive, educational web app rendering visual animations for core Data Structures and Algorithms to clarify complex computational logic step-by-step.</p>
+      <p>An interactive, educational web app rendering visual animations for core Data Structures and Algorithms to clarify complex computational logic and execution step-by-step.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛠️ ServiceHub Platform</h3>
@@ -84,7 +87,7 @@
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <p>A multi-sided marketplace platform connecting clients with service vendors featuring role-based authentication, interactive service listings, booking pipelines, and review metrics.</p>
+      <p>A multi-sided marketplace platform connecting clients with service vendors. Includes role-based authentication, interactive service listings, booking pipelines, and dynamic rating/review metrics.</p>
     </td>
   </tr>
   <tr>
@@ -94,7 +97,7 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       </p>
-      <p>A full-featured storefront featuring product catalog navigation, session/cart state management, and persistent checkout workflows.</p>
+      <p>A full-featured storefront featuring product catalog navigation, session/cart state management, persistent checkout workflows, and scalable backend services.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📱 Social Media Application</h3>
@@ -109,21 +112,17 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Metrics & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushar1234shinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tushar's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tushar1234shinde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar1234shinde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushar1234shinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tushar's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tushar1234shinde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tushar1234shinde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

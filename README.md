@@ -122,7 +122,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tushar1234shinde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats-salesforce.vercel.app/?user=Tushar1234shinde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

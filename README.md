@@ -1,15 +1,13 @@
 <h1 align="center">
   <a href="https://tusharportfolio2026sde.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+There!+%F0%9F%91%8B+I'm+Tushar+Shinde;Full+Stack+Software+Developer;Architecting+Scalable+Backend+%26+Dynamic+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+There!+%F0%9F%91%8B+I'm+Tushar+Shinde;Full+Stack+Software+Developer;Architecting+Scalable+Backend+%26+Dynamic+UI" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <b>B.Tech CSE | Full Stack Software Engineer</b><br>
+  <b>🎓 B.Tech CSE | 💻 Full Stack Software Engineer</b><br>
   <i>Specializing in Java/Spring Boot ecosystems, modern frontend frameworks, and cloud-native databases.</i>
 </p>
-
 
 <p align="center">
   <a href="https://tusharportfolio2026sde.vercel.app/" target="_blank">
@@ -18,17 +16,20 @@ font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2563EB&center=t
   <a href="https://www.linkedin.com/in/tushar-shinde-link/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Graduated with a B.Tech in Computer Science & Engineering.
-- 💻 **Core Focus:** Enterprise-grade full-stack development, scalable microservices, and high-performance user interfaces.
-- ⚡ **Backend Mastery:** Strong expertise in **Java**, **Spring Boot**, **JDBC**, and relational database optimization (**PostgreSQL**, **Oracle**, **PL/SQL**, **MySQL**).
-- 🎨 **Frontend Excellence:** Crafting clean, responsive, and dynamic web apps with **React**, **Angular**, **TypeScript**, and modern UI primitives.
-- 🌱 **Learning & Exploring:** DevOps workflows, microservice orchestration with Docker, and cloud engineering.
+* 🎓 **Education:** Graduated with a B.Tech in Computer Science & Engineering.
+* 💻 **Core Focus:** Enterprise-grade full-stack development, scalable microservices, and high-performance user interfaces.
+* ⚡ **Backend Mastery:** Strong expertise in **Java**, **Spring Boot**, **JDBC**, and relational database optimization (**PostgreSQL**, **Oracle**, **PL/SQL**, **MySQL**).
+* 🎨 **Frontend Excellence:** Crafting clean, responsive, and dynamic web apps with **React**, **Angular**, **TypeScript**, and modern UI primitives.
+* 🌱 **Learning & Exploring:** DevOps workflows, microservice orchestration with Docker, and cloud engineering.
 
 ---
 
@@ -44,7 +45,7 @@ font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2563EB&center=t
 <br/>
 
 <details open>
-<summary><b>🔥 Badges & Visual Tech Overview</b></summary>
+<summary><b>🔥 Visual Tech Overview</b></summary>
 <br>
 
 #### Frontend

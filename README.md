@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+There!+%F0%9F%91%8B+I'm+Tushar+Shinde;Full+Stack+Software+Developer;Architecting+Scalable+Backend+%26+Dynamic+UI" alt="Typing SVG" />
   </a>
 </h1>
-
-
 <p align="center">
   <b>🎓 B.Tech CSE | 💻 Full Stack Software Engineer</b><br>
   <i>Specializing in Java/Spring Boot ecosystems, modern frontend frameworks, and cloud-native databases.</i>

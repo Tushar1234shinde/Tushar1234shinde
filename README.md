@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar1234shinde&theme=tokyo-night&hide_border=true" alt="Tushar's GitHub activity graph" />
+  <img src="https://ghchart.rshah.org/409ba5/Tushar1234shinde" alt="Tushar's GitHub contribution graph" />
 </div>
 
 ---

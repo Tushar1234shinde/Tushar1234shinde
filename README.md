@@ -89,19 +89,24 @@ A service marketplace connecting customers with service providers, featuring aut
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tushar1234shinde&show_icons=true&theme=tokyonight&hide_border=true" alt="Tushar's GitHub statistics" />
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Tushar1234shinde&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tushar1234shinde&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <!-- Most Used Languages -->
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tushar1234shinde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
-<br/>
+  <br/><br/>
 
-<img width="95%" src="https://ghchart.rshah.org/409ba5/Tushar1234shinde" alt="GitHub contribution graph" />
+  <!-- Contribution Graph -->
+  <img width="95%" src="https://ghchart.rshah.org/409ba5/Tushar1234shinde" alt="GitHub Contribution Graph" />
 
 </div>
+
 
 ---
 
